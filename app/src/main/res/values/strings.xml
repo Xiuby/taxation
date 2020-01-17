@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tax</string>
+
+    <!--activity_main-->
+    <string name="tv_type">收入类型:</string>
+    <string name="tv_times">纳税期数:</string>
+    <string name="tv_salary">本月工资(元):</string>
+    <string name="tv_insurance">各项社会保险费(元):</string>
+    <string name="tv_additional">专项附加扣除(元):</string>
+    <string name="btn_reset">重置</string>
+    <string name="btn_calculate">计算</string>
+    <string name="edtTxt_value">0</string>
+
+</resources>
